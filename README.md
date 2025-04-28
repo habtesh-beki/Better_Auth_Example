@@ -27,7 +27,7 @@ A robust and secure authentication system with multiple sign-in options and mode
 > - Visit [Google Cloud Console](https://console.cloud.google.com/apis/dashboard)
 > - Navigate to **APIs & Services > Credentials**
 > - Click **Create Credentials** → **OAuth Client ID**
-> - Configure consent screen and download your Client ID and Client Secret.
+> - Configure consent screen and copy your Client ID and Client Secret.
 
 ## ⚙️ Setup Instructions
 
