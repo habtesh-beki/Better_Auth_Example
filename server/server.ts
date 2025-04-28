@@ -11,6 +11,7 @@ app.use(
     credentials: true,
   })
 );
+
 app.all("/api/auth/{*any}", toNodeHandler(auth));
 
 app.listen(port, () => {
